@@ -1,0 +1,16 @@
+{
+    "name": "MapsterAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:52985c666bfe6b24cb26f5b44f1ac0e2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
