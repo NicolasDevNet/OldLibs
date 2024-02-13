@@ -1,0 +1,16 @@
+{
+    "name": "FluentValidationAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d5dfd01f2a5bbe944b8aaf3873175f96"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
